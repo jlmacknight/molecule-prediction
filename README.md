@@ -1,3 +1,3 @@
-# disease-prediction
+# molecule-prediction
 
 # WIP
